@@ -438,12 +438,14 @@ footer {
 .social-links {
     list-style: none;
     float: right;
+    text-decoration-color: #ccc;
 }
 
 .footer-nav li,
 .social-links li{
     display: inline-block;
     margin-right: 20px;
+    color: #ccc;
 }
 
 .footer-nav li:last-child,
